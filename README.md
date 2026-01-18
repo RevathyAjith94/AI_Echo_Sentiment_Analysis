@@ -130,11 +130,11 @@ pip install -r requirements.txt
 
 ---
 
-### 2️⃣Run the Streamlit app
+## 2️⃣Run the Streamlit app
 
 streamlit run app.py
 
-### 🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Use deep learning models like LSTM or BERT
 
@@ -144,7 +144,7 @@ Real-time data ingestion via APIs
 
 Cloud deployment (AWS / Streamlit Cloud)
 
-### ✅ Conclusion
+## ✅ Conclusion
 
 AI Echo demonstrates a complete Data Science lifecycle, from data preprocessing and NLP to machine learning modeling and deployment.
 The project provides valuable insights into customer sentiment and can be scaled for real-world applications.
